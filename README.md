@@ -2,12 +2,22 @@
 
 An Replica Of Apple music app made using
 
-## React
+Clone the project and run the project using npm install && npm start
 
-## Redux
+React
 
-## Thunks
+Redux
 
-## Styled Components
+Thunks
 
-## Lazy Loading
+Styled Components
+
+Lazy Loading
+
+## DEMO
+
+![](gif/Demo5.gif)
+![](gif/Demo1.gif)
+![](gif/Demo2.gif)
+![](gif/Demo3.gif)
+![](gif/Demo4.gif)
