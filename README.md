@@ -17,8 +17,17 @@ Lazy Loading
 
 ## DEMO
 
-![](gif/Demo5.gif)  <br>
-![](gif/Demo1.gif)  <br>
-![](gif/Demo2.gif)  <br>
-![](gif/Demo3.gif)  <br>
-![](gif/Demo4.gif)  <br>
+Part - 1
+![](gif/Demo5.gif) 
+
+Part - 2
+![](gif/Demo1.gif)
+
+Part - 3
+![](gif/Demo2.gif)
+
+Part - 4
+![](gif/Demo3.gif)  
+
+Part - 5
+![](gif/Demo4.gif)  
